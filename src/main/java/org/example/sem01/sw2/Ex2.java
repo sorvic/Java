@@ -8,6 +8,7 @@ public class Ex2 {
     public static void main(String[] args) {
         // станндартная конструкция для ввода в консоль
         Scanner sc = new Scanner(System.in);
+        System.out.println("Введите число:");
         int n = sc.nextInt();
         int k = 0;
         int a = sc.nextInt();
